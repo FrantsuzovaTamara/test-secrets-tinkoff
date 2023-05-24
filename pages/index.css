@@ -1,0 +1,32 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/article/article.css);
+@import url(../blocks/article/__header/article__header.css);
+@import url(../blocks/article/__main-info/article__main-info.css);
+@import url(../blocks/article/__lable/article__label.css);
+@import url(../blocks/article/__title/article__title.css);
+@import url(../blocks/article/__circle/article__circle.css);
+
+@import url(../blocks/article/__tegs/article__tegs.css);
+@import url(../blocks/article/__tegs-title/article__tegs-title.css);
+@import url(../blocks/article/__tegs-list/article__tegs-list.css);
+@import url(../blocks/article/__teg/article__teg.css);
+@import url(../blocks/article/__teg-link/article__teg-link.css);
+
+@import url(../blocks/paragraph/paragraph.css);
+@import url(../blocks/paragraph/__title/paragraph__title.css);
+@import url(../blocks/paragraph/__text/paragraph__text.css);
+@import url(../blocks/paragraph/__text/_bold/paragraph__text_bold.css);
+@import url(../blocks/paragraph/__list/paragraph__list.css);
+
+@import url(../blocks/article/__author/article__author.css);
+@import url(../blocks/article/__avatar/article__avatar.css);
+@import url(../blocks/article/__text-info/article__text-info.css);
+@import url(../blocks/article/__name/article__name.css);
+@import url(../blocks/article/__about/article__about.css);
+
+@import url(../blocks/article/__footer/article__footer.css);
+@import url(../blocks/article/__editor/article__editor.css);
+@import url(../blocks/article/__read-more/article__read-more.css);
