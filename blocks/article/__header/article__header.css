@@ -1,0 +1,13 @@
+.article__header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 650px) {
+  .article__header {
+    flex-direction: column;
+    gap: 12px
+  }
+}
+

@@ -1,0 +1,12 @@
+.article__label {
+  background: #ffdd2d;
+  width: 94px;
+  height: 26px;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 20px;
+  color: #333333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

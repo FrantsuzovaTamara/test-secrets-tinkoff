@@ -1,0 +1,14 @@
+.paragraph {
+  font-style: normal;
+  color: #333333;
+  padding-top: 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+@media screen and (max-width: 650px) {
+  .paragraph {
+    padding-top: 36px;
+  }
+}

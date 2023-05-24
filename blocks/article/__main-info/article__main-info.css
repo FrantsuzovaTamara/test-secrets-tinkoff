@@ -1,0 +1,5 @@
+.article__main-info {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}

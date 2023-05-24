@@ -1,0 +1,6 @@
+.article__read-more {
+  color: #597DB3;
+  text-decoration: none;
+  border-bottom: 1px solid rgb(89, 125, 179, .2);
+  max-width: max-content;
+}

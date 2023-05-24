@@ -1,0 +1,17 @@
+.article__footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+@media screen and (max-width: 650px) {
+  .article__footer {
+    flex-direction: column;
+    gap: 8px;
+  }
+}

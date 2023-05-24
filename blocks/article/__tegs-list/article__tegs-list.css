@@ -1,0 +1,14 @@
+.article__tegs-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 12px
+}
+
+@media screen and (max-width: 650px) {
+  .article__tegs-list {
+    flex-direction: column;
+  }
+}

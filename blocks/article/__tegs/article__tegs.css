@@ -1,0 +1,23 @@
+.article__tegs {
+  font-size: 17px;
+  line-height: 28px;
+  color: #808c9e;
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+@media screen and (max-width: 1050px) {
+  .article__tegs {
+    padding-top: 28px;
+    font-size: 15px;
+    line-height: 24px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .article__tegs {
+    padding-top: 12px;
+  }
+}

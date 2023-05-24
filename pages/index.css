@@ -5,7 +5,7 @@
 @import url(../blocks/article/article.css);
 @import url(../blocks/article/__header/article__header.css);
 @import url(../blocks/article/__main-info/article__main-info.css);
-@import url(../blocks/article/__lable/article__label.css);
+@import url(../blocks/article/__label/article__label.css);
 @import url(../blocks/article/__title/article__title.css);
 @import url(../blocks/article/__circle/article__circle.css);
 
@@ -17,6 +17,7 @@
 
 @import url(../blocks/paragraph/paragraph.css);
 @import url(../blocks/paragraph/__title/paragraph__title.css);
+@import url(../blocks/paragraph/__title-link/paragraph__title-link.css);
 @import url(../blocks/paragraph/__text/paragraph__text.css);
 @import url(../blocks/paragraph/__text/_bold/paragraph__text_bold.css);
 @import url(../blocks/paragraph/__list/paragraph__list.css);

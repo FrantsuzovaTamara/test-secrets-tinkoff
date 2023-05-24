@@ -1,0 +1,23 @@
+.article {
+  max-width: 784px;
+  width: 100%;
+  padding: 48px 48px 50px;
+  box-sizing: border-box;
+  border: 1px solid #DCE2E8;
+}
+
+@media screen and (max-width: 1050px) {
+  .article {
+    padding-bottom: 48px;
+    margin: 0 auto;
+    max-width: 608px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .article {
+    max-width: none;
+    min-width: 288px;
+    padding: 24px 24px 36px;
+  }
+}

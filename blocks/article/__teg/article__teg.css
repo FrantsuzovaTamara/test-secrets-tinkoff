@@ -1,0 +1,7 @@
+.article__teg {
+  background: #F1F3F5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: max-content;
+}

@@ -1,0 +1,14 @@
+.paragraph__title {
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+  font-feature-settings: "liga" off;
+  margin: 0;
+}
+
+@media screen and (max-width: 1050px) {
+  .paragraph__title {
+    font-size: 21px;
+    line-height: 28px;
+  }
+}
